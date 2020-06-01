@@ -1,6 +1,6 @@
 # Flutter SignUp/SignIn UI
 
-This is implementation of a beautiful SignUp/SignIn page design in Flutter. 
+This is implementation of a beautiful SignUp/SignIn page design in Flutter.\n
 Design Credits : https://dribbble.com/shots/11583564-Mobile-Sign-Up-Form
 
 Tools/Softwares Used -
